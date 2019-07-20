@@ -1,0 +1,4 @@
+name: fAPI
+main: us.fiercepvp.api.API
+version: 1.0
+author: FiercePvP Development
